@@ -1,170 +1,170 @@
 {
-    "Deck1": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1-mK7_6ZaS7om6mNrOkTt23uGX39k_T2U",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck2": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 64,
-      "URL": "https://drive.google.com/uc?export=download&id=1-ovwxz4qwbUq4HFuHEKM2fNYMsn2gjQH",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck3": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=19zavAPyuyKkgC7FEHUpxxwhD63gnl3c9",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck4": {
-      "Width": 10,
-      "Height": 5,
-      "CardCount": 45,
-      "URL": "https://drive.google.com/uc?export=download&id=1kVIKG23-ea1pC57bdGUtgFggblHuxIel",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck5": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1iQ1PuAxEr2HymgYxMtstwwyHso0Xn1BA",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck6": {
-      "Width": 10,
-      "Height": 3,
-      "CardCount": 29,
-      "URL": "https://drive.google.com/uc?export=download&id=1Cqfu_WEyOdXYf9YbzD7v0X2pRz07ja8j",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck7": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1QhcNz7G8_WpKJOcQcRmlHzxICstivzbu",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck8": {
-      "Width": 6,
-      "Height": 4,
-      "CardCount": 21,
-      "URL": "https://drive.google.com/uc?export=download&id=1OITiUIR1zcShabUQsKPOGFfZGS5UUFRR",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck9": {
-      "Width": 8,
-      "Height": 6,
-      "CardCount": 47,
-      "URL": "https://drive.google.com/uc?export=download&id=1s5Rtxs9nWoYAfghpEN95GnHgk2kAXBc3",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck10": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1Yh736HlWJGna3CY3SDSoOKXICerCtw1S",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck11": {
-      "Width": 4,
-      "Height": 4,
-      "CardCount": 15,
-      "URL": "https://drive.google.com/uc?export=download&id=11x6G2G6RkT9KhB7G1Y5WLfAcs1K6Z_sD",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck12": {
-      "Width": 7,
-      "Height": 6,
-      "CardCount": 40,
-      "URL": "https://drive.google.com/uc?export=download&id=1ZHnjlF1n2z2_tMgbs8z8dDA4Xi4NJCnG",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck13": {
-      "Width": 10,
-      "Height": 6,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1Sm0EaklCU_z-T1d8_tUl9x4sK-9c8czt",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck14": {
-      "Width": 10,
-      "Height": 6,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1oAOznpU4Y0txYcuArFoIpY29lTpyzQGy",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck15": {
-      "Width": 5,
-      "Height": 3,
-      "CardCount": 14,
-      "URL": "https://drive.google.com/uc?export=download&id=114FwCfBXX3q-9fuo2gpT5bzrDP6wj9Zm",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck16": {
-      "Width": 9,
-      "Height": 5,
-      "CardCount": 43,
-      "URL": "https://drive.google.com/uc?export=download&id=1-s33PonKa3LJXozdXfjq3jBXZIusgvAB",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck17": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1eBVjJJos5AKGk6SXdEhx1IBq2PoiSQY8",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck18": {
-      "Width": 6,
-      "Height": 6,
-      "CardCount": 35,
-      "URL": "https://drive.google.com/uc?export=download&id=18CxCaPo5nagEi9KCbwELbUD-6XB7j34M",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck19": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1aeCgOLUnjcWtnnDicSt9cbKrqr1IZK13",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck20": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 65,
-      "URL": "https://drive.google.com/uc?export=download&id=1jduQr0GYYSnfotkJeTeqP6iHDKorVM2v",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck21": {
-      "Width": 9,
-      "Height": 2,
-      "CardCount": 17,
-      "URL": "https://drive.google.com/uc?export=download&id=1osGCcHu52pCuBOm1hM2DgW3oFfFL2t8J",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck22": {
-      "Width": 10,
-      "Height": 7,
-      "CardCount": 69,
-      "URL": "https://drive.google.com/uc?export=download&id=1Az0yqVks32mmzxDFKAn-EpAsik-7U8LX",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck23": {
-      "Width": 6,
-      "Height": 7,
-      "CardCount": 40,
-      "URL": "https://drive.google.com/uc?export=download&id=1yEkXzZN9_tsL2JVctkW5ScKo8f1Djllh",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    },
-    "Deck24": {
-      "Width": 2,
-      "Height": 2,
-      "CardCount": 2,
-      "URL": "https://drive.google.com/uc?export=download&id=19iRkX4nA25i4eEciSJcV8RfkdUVRh3lY",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
-    }
+  "Deck1": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1-mK7_6ZaS7om6mNrOkTt23uGX39k_T2U",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck2": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 64,
+    "URL": "https://drive.google.com/uc?export=download&id=1-ovwxz4qwbUq4HFuHEKM2fNYMsn2gjQH",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck3": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=19zavAPyuyKkgC7FEHUpxxwhD63gnl3c9",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck4": {
+    "Width": 10,
+    "Height": 5,
+    "CardCount": 45,
+    "URL": "https://drive.google.com/uc?export=download&id=1kVIKG23-ea1pC57bdGUtgFggblHuxIel",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck5": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1iQ1PuAxEr2HymgYxMtstwwyHso0Xn1BA",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck6": {
+    "Width": 10,
+    "Height": 3,
+    "CardCount": 29,
+    "URL": "https://drive.google.com/uc?export=download&id=1Cqfu_WEyOdXYf9YbzD7v0X2pRz07ja8j",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck7": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1QhcNz7G8_WpKJOcQcRmlHzxICstivzbu",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck8": {
+    "Width": 6,
+    "Height": 4,
+    "CardCount": 21,
+    "URL": "https://drive.google.com/uc?export=download&id=1OITiUIR1zcShabUQsKPOGFfZGS5UUFRR",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck9": {
+    "Width": 8,
+    "Height": 6,
+    "CardCount": 47,
+    "URL": "https://drive.google.com/uc?export=download&id=1s5Rtxs9nWoYAfghpEN95GnHgk2kAXBc3",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck10": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1Yh736HlWJGna3CY3SDSoOKXICerCtw1S",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck11": {
+    "Width": 4,
+    "Height": 4,
+    "CardCount": 15,
+    "URL": "https://drive.google.com/uc?export=download&id=11x6G2G6RkT9KhB7G1Y5WLfAcs1K6Z_sD",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck12": {
+    "Width": 7,
+    "Height": 6,
+    "CardCount": 40,
+    "URL": "https://drive.google.com/uc?export=download&id=1ZHnjlF1n2z2_tMgbs8z8dDA4Xi4NJCnG",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck13": {
+    "Width": 10,
+    "Height": 6,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1Sm0EaklCU_z-T1d8_tUl9x4sK-9c8czt",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck14": {
+    "Width": 10,
+    "Height": 6,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1oAOznpU4Y0txYcuArFoIpY29lTpyzQGy",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck15": {
+    "Width": 5,
+    "Height": 3,
+    "CardCount": 14,
+    "URL": "https://drive.google.com/uc?export=download&id=114FwCfBXX3q-9fuo2gpT5bzrDP6wj9Zm",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck16": {
+    "Width": 9,
+    "Height": 5,
+    "CardCount": 43,
+    "URL": "https://drive.google.com/uc?export=download&id=1-s33PonKa3LJXozdXfjq3jBXZIusgvAB",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck17": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1eBVjJJos5AKGk6SXdEhx1IBq2PoiSQY8",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck18": {
+    "Width": 6,
+    "Height": 6,
+    "CardCount": 35,
+    "URL": "https://drive.google.com/uc?export=download&id=18CxCaPo5nagEi9KCbwELbUD-6XB7j34M",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck19": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1aeCgOLUnjcWtnnDicSt9cbKrqr1IZK13",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck20": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 65,
+    "URL": "https://drive.google.com/uc?export=download&id=1jduQr0GYYSnfotkJeTeqP6iHDKorVM2v",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck21": {
+    "Width": 9,
+    "Height": 2,
+    "CardCount": 17,
+    "URL": "https://drive.google.com/uc?export=download&id=1osGCcHu52pCuBOm1hM2DgW3oFfFL2t8J",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck22": {
+    "Width": 10,
+    "Height": 7,
+    "CardCount": 69,
+    "URL": "https://drive.google.com/uc?export=download&id=1Az0yqVks32mmzxDFKAn-EpAsik-7U8LX",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck23": {
+    "Width": 6,
+    "Height": 7,
+    "CardCount": 40,
+    "URL": "https://drive.google.com/uc?export=download&id=1yEkXzZN9_tsL2JVctkW5ScKo8f1Djllh",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  },
+  "Deck24": {
+    "Width": 2,
+    "Height": 2,
+    "CardCount": 2,
+    "URL": "https://drive.google.com/uc?export=download&id=19iRkX4nA25i4eEciSJcV8RfkdUVRh3lY",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/34445199182679277/4820DD45FFB90192236F3DD31B9AAD6FBDB9E64C/"
+  }
 }

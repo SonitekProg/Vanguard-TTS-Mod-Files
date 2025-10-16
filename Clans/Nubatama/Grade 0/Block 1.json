@@ -1,0 +1,38 @@
+{
+	{
+      "CardName": "Stealth Beast, Hagakure",
+      "CardType": {
+        "MainType": "Unit",
+        "Subtype": "Normal"
+      },
+      "Grade": 0,
+      "Clans": [
+        "Nubatama"
+      ],
+      "Race": [
+        "Warbeast"
+      ],
+      "Combat": "Boost",
+      "Ride": "None",
+      "Power": 5,
+      "Shield": 10,
+      "Critical": 1,
+      "Abilities": [
+        {
+          "Textual": "auto: [c-blast(1)] when this unit is placed on gc, if you have a «nubatama» vanguard, and the number of cards in your hand is less than your opponent's, you may pay the cost. if you do, your opponent chooses a card from his or her hand, and discards it.",
+          "Visual": "[00ff00][b]AUTO[/b][-]: [[b][u][5555ff]C-Blast(1)[-][/u][/b]] When this unit is placed on GC, if you have a «Nubatama» vanguard, and the number of cards in your hand is less than your opponent's, you may pay the cost. If you do, your opponent chooses a card from his or her hand, and discards it."
+        }
+      ],
+      "Block": 1,
+      "VisualFile": [
+        {
+          "Sheet": 1,
+          "Index": 67
+        }
+      ],
+      "TriggerData": {
+        "Type": "None"
+      },
+      "Flags": []
+    }
+}

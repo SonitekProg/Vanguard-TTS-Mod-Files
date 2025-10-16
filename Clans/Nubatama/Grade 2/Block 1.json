@@ -1,0 +1,38 @@
+{
+	{
+      "CardName": "Stealth Beast, Chigasumi",
+      "CardType": {
+        "MainType": "Unit",
+        "Subtype": "Normal"
+      },
+      "Grade": 2,
+      "Clans": [
+        "Nubatama"
+      ],
+      "Race": [
+        "Warbeast"
+      ],
+      "Combat": "Intercept",
+      "Ride": "None",
+      "Power": 8,
+      "Shield": 5,
+      "Critical": 1,
+      "Abilities": [
+        {
+          "Textual": "auto(vc/rc): when this unit attacks, if the number of cards in your hand is greater than your opponent's , this unit gets power+3000 until end of that battle.",
+          "Visual": "[00ff00][b]AUTO[/b][-](VC/RC): When this unit attacks, if the number of cards in your hand is greater than your opponent's , this unit gets [00aa00][b]POWER+3000[/b][-] until end of that battle."
+        }
+      ],
+      "Block": 1,
+      "VisualFile": [
+        {
+          "Sheet": 1,
+          "Index": 65
+        }
+      ],
+      "TriggerData": {
+        "Type": "None"
+      },
+      "Flags": []
+    }
+}

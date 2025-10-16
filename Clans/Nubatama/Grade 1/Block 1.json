@@ -1,0 +1,38 @@
+{
+	{
+      "CardName": "Stealth Dragon, Dreadmaster",
+      "CardType": {
+        "MainType": "Unit",
+        "Subtype": "Normal"
+      },
+      "Grade": 1,
+      "Clans": [
+        "Nubatama"
+      ],
+      "Race": [
+        "Shadow Dragon"
+      ],
+      "Combat": "Boost",
+      "Ride": "None",
+      "Power": 7,
+      "Shield": 5,
+      "Critical": 1,
+      "Abilities": [
+        {
+          "Textual": "auto(rc): [c-blast(1)] when an attack hits during the battle that this unit boosted a «nubatama», if the number of cards in your hand is less than your opponent's, you may pay the cost. if you do, your opponent chooses a card from his or her hand, and discards it.",
+          "Visual": "[00ff00][b]AUTO[/b][-](RC): [[b][u][5555ff]C-Blast(1)[-][/u][/b]] When an attack hits during the battle that this unit boosted a «Nubatama», if the number of cards in your hand is less than your opponent's, you may pay the cost. If you do, your opponent chooses a card from his or her hand, and discards it."
+        }
+      ],
+      "Block": 1,
+      "VisualFile": [
+        {
+          "Sheet": 1,
+          "Index": 66
+        }
+      ],
+      "TriggerData": {
+        "Type": "None"
+      },
+      "Flags": []
+    }
+}

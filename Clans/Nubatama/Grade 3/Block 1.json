@@ -1,0 +1,42 @@
+{
+	{
+      "CardName": "Stealth Dragon, Voidmaster",
+      "CardType": {
+        "MainType": "Unit",
+        "Subtype": "Normal"
+      },
+      "Grade": 3,
+      "Clans": [
+        "Nubatama"
+      ],
+      "Race": [
+        "Shadow Dragon"
+      ],
+      "Combat": "Twin Drive",
+      "Ride": "None",
+      "Power": 9,
+      "Shield": 0,
+      "Critical": 1,
+      "Abilities": [
+        {
+          "Textual": "auto(vc): when this unit attacks, if the number of cards in your hand is greater than your opponent's , this unit gets power+3000 until end of that battle.",
+          "Visual": "[00ff00][b]AUTO[/b][-](VC): When this unit attacks, if the number of cards in your hand is greater than your opponent's , this unit gets [00aa00][b]POWER+3000[/b][-] until end of that battle."
+        },
+        {
+          "Textual": "auto(vc/rc): [c-blast(1)] when this unit's attack hits, if the number of cards in your hand is less than your opponent's, you may pay the cost. if you do, your opponent chooses a card from his or her hand, and discards it.",
+          "Visual": "[00ff00][b]AUTO[/b][-](VC/RC): [[b][u][5555ff]C-Blast(1)[-][/u][/b]] When this unit's attack hits, if the number of cards in your hand is less than your opponent's, you may pay the cost. If you do, your opponent chooses a card from his or her hand, and discards it."
+        }
+      ],
+      "Block": 1,
+      "VisualFile": [
+        {
+          "Sheet": 1,
+          "Index": 34
+        }
+      ],
+      "TriggerData": {
+        "Type": "None"
+      },
+      "Flags": []
+    }
+}
