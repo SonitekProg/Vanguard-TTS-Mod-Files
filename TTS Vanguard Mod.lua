@@ -34,9 +34,15 @@ end
 
 function NewSearchList()
 	CurrentLoadList = {}
+	if (MasterFile.Nubatama == nil or MasterFile.Nubatama == "")
+	then
+		broadcastToAll("Problem with the MasterFile")
+	end
+	--broadcastToAll(MasterFile["Nubatama"]["Grade0"]["Block1"])
 	for g = 0, 4, 1
 	do
-		table.insert(CurrentLoadList, { Clan="Nubatama", Grade=g, Block=1, Path=MasterFile.Nubatama["Grade"..i].Block1 }
+		--local grade = "Grade"..g
+		--table.insert(CurrentLoadList, { Clan="Nubatama", Grade=g, Block=1, Path=MasterFile.Nubatama[grade].Block1 })
 	end
 	
 	for _, filepath in ipairs(CurrentLoadList)
