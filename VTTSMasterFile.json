@@ -647,19 +647,18 @@
   },
   "Nubatama": {
     "Grade0": {
-      "Block1": ""
+      "Block1": "https://raw.githubusercontent.com/SonitekProg/Vanguard-TTS-Mod-Files/refs/heads/main/Clans/Nubatama/Grade%200/Block%201.json"
     },
     "Grade1": {
-      "Block1": ""
+      "Block1": "https://raw.githubusercontent.com/SonitekProg/Vanguard-TTS-Mod-Files/refs/heads/main/Clans/Nubatama/Grade%201/Block%201.json"
     },
     "Grade2": {
-      "Block1": ""
+      "Block1": "https://github.com/SonitekProg/Vanguard-TTS-Mod-Files/blob/main/Clans/Nubatama/Grade%202/Block%201.json"
     },
     "Grade3": {
-      "Block1": ""
+      "Block1": "https://github.com/SonitekProg/Vanguard-TTS-Mod-Files/blob/main/Clans/Nubatama/Grade%203/Block%201.json"
     },
     "Grade4": {
-      "Block1": ""
     }
   },
   "OracleThinkTank": {
