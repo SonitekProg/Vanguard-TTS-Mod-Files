@@ -4,7 +4,8 @@ function onLoad()
 	MasterFile = {}
 	CustomDecks = {}
 	CurrentLoadList = {}
-	Wait.time(LoadJSON, 0.1)
+	LoadedFiles = ""
+	startLuaCoroutine(Global, "LoadJSON")
 end
 
 function LoadJSON()
@@ -27,7 +28,21 @@ function LoadJSON()
 									CustomDecks = JSON.decode(response.text)
 									end)
 	broadcastToAll("Mod fully loaded, and can now be used properly.")
+	NewSearchList()
 	return 1
+end
+
+function NewSearchList()
+	CurrentLoadList = {}
+	for g = 0, 4, 1
+	do
+		table.insert(CurrentLoadList, { Clan="Nubatama", Grade=g, Block=1, Path=MasterFile.Nubatama["Grade"..i].Block1 }
+	end
+	
+	for _, filepath in ipairs(CurrentLoadList)
+	do
+		broadcastToAll(filepath.Path)
+	end
 end
 
 function LoadNext()
