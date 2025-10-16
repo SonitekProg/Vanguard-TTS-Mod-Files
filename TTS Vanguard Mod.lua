@@ -5,10 +5,7 @@ function onLoad()
 	CustomDecks = {}
 	CurrentLoadList = {}
 	LoadedFiles = ""
-	startLuaCoroutine(Global, "LoadJSON")
-end
-
-function LoadJSON()
+	--startLuaCoroutine(Global, "LoadJSON")
 	WebRequest.get(MasterURL,	function(response)
 								if (response.is_error)
 								then
@@ -29,25 +26,20 @@ function LoadJSON()
 									end)
 	broadcastToAll("Mod fully loaded, and can now be used properly.")
 	NewSearchList()
+end
+
+function LoadJSON()
 	return 1
 end
 
 function NewSearchList()
 	CurrentLoadList = {}
-	if (MasterFile["Nubatama"] == nil or MasterFile["Nubatama"] == "")
-	then
-		broadcastToAll("Problem with the MasterFile")
-	end
-	--broadcastToAll(MasterFile["Nubatama"]["Grade0"]["Block1"])
-	for g = 0, 4, 1
-	do
-		--local grade = "Grade"..g
-		--table.insert(CurrentLoadList, { Clan="Nubatama", Grade=g, Block=1, Path=MasterFile.Nubatama[grade].Block1 })
-	end
 	
-	for _, filepath in ipairs(CurrentLoadList)
-	do
-		broadcastToAll(filepath.Path)
+	if (MasterFile["Clans"] ~= nil)
+	then
+		broadcastToAll("Special Message!")
+	else
+		broadcastToAll("Big problem...")
 	end
 end
 
