@@ -1,5 +1,6 @@
 function onLoad()
 	MasterURL = "https://raw.githubusercontent.com/SonitekProg/Vanguard-TTS-Mod-Files/refs/heads/main/VTTSMasterFile.json"
+	CustomDecksURL = ""
 	MasterFile = {}
 	Wait.time(LoadJSON, 0.1)
 end
