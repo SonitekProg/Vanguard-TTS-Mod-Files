@@ -34,7 +34,7 @@ end
 
 function NewSearchList()
 	CurrentLoadList = {}
-	if (MasterFile.Nubatama == nil or MasterFile.Nubatama == "")
+	if (MasterFile["Nubatama"] == nil or MasterFile["Nubatama"] == "")
 	then
 		broadcastToAll("Problem with the MasterFile")
 	end
