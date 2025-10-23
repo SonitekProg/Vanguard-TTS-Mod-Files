@@ -23,9 +23,9 @@ function onLoad()
 										return
 									end
 									CustomDecks = JSON.decode(response.text)
+									broadcastToAll("Mod fully loaded, and can now be used properly.")
+									NewSearchList()
 									end)
-	broadcastToAll("Mod fully loaded, and can now be used properly.")
-	NewSearchList()
 end
 
 function LoadJSON()
@@ -34,8 +34,10 @@ end
 
 function NewSearchList()
 	CurrentLoadList = {}
-	
-	broadcastToAll(next(MasterFile))
+	if (MasterFile.Clans.Nubatama ~= nil)
+	then
+		broadcastToAll("Properly Loaded.")
+	end
 end
 
 function LoadNext()
