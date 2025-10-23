@@ -33,10 +33,16 @@ function LoadJSON()
 end
 
 function NewSearchList()
+	local ClanName = "Nubatama"
+	local Grade = "Grade0"
 	CurrentLoadList = {}
-	if (MasterFile.Clans.Nubatama ~= nil)
+	
+	--broadcastToAll("Value is: "..MasterFile.Clans["Nubatama"]["Grade0"])
+	if (MasterFile.Clans[ClanName][Grade] ~= nil)
 	then
-		broadcastToAll("Properly Loaded.")
+		CurrentLoadList[ClanName] = {}
+		CurrentLoadList[ClanName][Grade] = MasterFile.Clans[ClanName][Grade]
+		broadcastToAll("Stored Value is: "..CurrentLoadList[ClanName][Grade])
 	end
 end
 
