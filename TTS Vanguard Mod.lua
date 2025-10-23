@@ -35,12 +35,7 @@ end
 function NewSearchList()
 	CurrentLoadList = {}
 	
-	if (MasterFile["Clans"] ~= nil)
-	then
-		broadcastToAll("Special Message!")
-	else
-		broadcastToAll("Big problem...")
-	end
+	broadcastToAll(next(MasterFile))
 end
 
 function LoadNext()
